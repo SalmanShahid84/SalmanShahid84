@@ -1,58 +1,42 @@
-- 👋 Hi, I’m Salman
-- 👀 I’m interested in Data Science, Machine Learning, AI
-- 🌱 I’m currently learning Data related stuff (SQL, Statistics etc..) 
-- 💞️ I’m looking to collaborate on some Python related projects
-- 📫 How to reach me (salman_shahid84@hotmail.com)
-- Check out my Linkedin :- (https://www.linkedin.com/in/salman64/)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salman Shahid
+=====================================================================================================================================
 
-- I worked as an Undergrad Mechanical Engineer Researcher. Check out some of my published papers:
+Aspiring Data Scientist
+-----------------------
 
-- Hasan, A., Shahid, S., Dol, S.S., Gadala, M.S., Aris, M.S., Alavi, M. – (BOOK CHAPTER)
-“Effects of Rotation Speeds on Electrical Submersible Pump Performance Under Two Phase Flow”
-Intelligent Manufacturing and Energy Sustainability. Smart Innovation, Systems and Technologies, Vol 265. Springer,
-Singapore. DOI: https://doi.org/10.1007/978-981-16-6482-3_59
+Been learning code for about a month now, following detailed roadmaps for Data Science as I have worked with Data during my undergrad as a Mechanical Engineer Researcher.
 
-- Shahid, S., Khamis, A., Adallftah, M. T., Fares, M., & Dol, S. S. – (BOOK CHAPTER UNDERWAY)
-“Numerical Modelling and Performance Optimization of a Vertical Axis Wind Turbine”
-Environment and Energy in the Tropics. Springer.
+* 🌍  I'm based in Abu Dhabi
+* 🖥️  See my portfolio at [Coming Soon]
+* ✉️  You can contact me at [salman\_shahid84@hotmail.com](mailto:salman_shahid84@hotmail.com)
+* 🧠  I'm learning Statistics, Machine Learning, Text Mining, Visualization, Big Data, Data Munging, Data Ingestion
+* 🤝  I'm open to collaborating on Large technical heavy projects, but I will announce it on GitHub profile
+* ⚡  I absolutely love Movies, anything to do with Movies/TV Shows (GOT), for me it is about growing, learning, innovating, inventing something that would change someone's life.
 
-- Shahid, S., Hasan, A., Dol, S. S., and Gadala, M. S. – (Q1 JOURNAL)
-“Numerical Investigation of Turbulence Production Under Two-Phase Flow in a Simulation of Electrical Submersible Pump
-Performance.”
-ASME: Open Journal of Engineering. (2022). DOI: https://doi.org/10.1115/1.4054034
+<a href="https://www.github.com/SkBuds" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SkBuds?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- Khamis, A., Adallftah, M. T., Fares, M., Shahid, S., & Dol, S. S
-“Design Improvement of the Vertical Axis Wind Turbine with Applied Flaps Through CFD Analysis.”
-PLATFORM: A Journal of Engineering. (2021). 5(4), 29 - 40
-SS
+### Skills
 
-- Dol, S. S., Khamis, A., Tarek, M., Fares, M., & Shahid, S.
-“CFD Analysis of Vertical Axis Wind Turbine with Winglets.”
-Journal of Renewable Energy Research and Applications (RERA). (2021). 3(1), 51 – 59. DOI:
-https://doi.org/10.22044/rera.2021.11122.1074
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
-- Hasan, A., Shahid, S., Dol, S.S., Gadala, M.S., Aris, M.S., Alavi, M.
-“Numerical Investigation of Wall Shear Stress under Single-Phase and Two-phase Flow in the Electrical Submersible Pump.”
-WSEAS Transactions on Fluid Mechanics. (2021). ISSN: 2224-347X
 
-- Shahid, S., Hassan, A. Q., Dol, S. S., Gadala, M. S., & Aris, M. S.
-“Effects of Gas Volume Fraction on Electrical Submersible Pump Performance Under Two-Phase Flow.”
-PLATFORM: A Journal of Engineering. (2021). 5(2), 2 – 9.
+### Socials
 
-- Shahid, S., Hassan, A. Q., Dol, S. S., Gadala, M. S., & Aris, M. S.
-“Effects of Near-Wall Vortices on Wall Shear Stress in a Centrifugal Pump Impeller.”
-WSEAS Transactions on Fluid Mechanics. (2021). 16, 37 – 47, ISSN: 1790-5087
+<p align="left"> <a href="https://discord.com/users/SkBuds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SkBuds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/salman_shahid84" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/salman64" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-- Shahid, S., Hassan, A. Q., Kassem, O.M., Dol, S. S., Gadala, M. S., & Aris, M. S.
-“A Review on Electrical Submersible Pump Head Losses and Methods to Analyze Two-Phase Performance Curve”
-WSEAS Transactions on Fluid Mechanics. (2021). 16, 14 – 31, ISSN: 1790-5087
+### Badges
 
-- Shahid, S., Uzair, M., Bashir, S.K., Elzughbi, M.M., & Dol, S. S. – (UNDERGRADUATE THESIS)
-“Design of Solar-powered Endurance Glider with Vortex Generators”
-Journal of Renewable Energy Research and Applications (RERA). (2020). 3(1), 51 – 59. DOI:
-https://doi.org/10.22044/RERA.2020.9778.1037
+<b>My GitHub Stats</b>
 
-<!---
-SkBuds/SkBuds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="http://www.github.com/SkBuds"><img src="https://github-readme-stats.vercel.app/api?username=SkBuds&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SkBuds's GitHub stats" /></a>
+
+<a href="http://www.github.com/SkBuds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SkBuds&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/SkBuds" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkBuds&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
