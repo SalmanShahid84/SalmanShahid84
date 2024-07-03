@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Scientist
 -----------------------
 
-Been learning code for about a month now, following detailed roadmaps for Data Science as I have worked with Data during my undergrad as a Mechanical Engineer Researcher.
+Currently studying Engineering Mathematics and Computational Science at Chalmers University of Technology with tracks in Data science, AI and ML. With over 2 years of expertise in Machine Learning (ML), Natural Language Processing (NLP), and Software Engineering, I specialize in transforming data and language into powerful, impactful solutions and user experiences. My diverse skill set enables me to create innovative, data-driven applications that drive success
 
 * 🌍  I'm based in Gothenburg, Sweden
 * 🖥️  See my portfolio at [Coming Soon]
