@@ -13,8 +13,8 @@ Currently studying Engineering Mathematics and Computational Science at Chalmers
 * 🧠  Learning Statistics, Machine Learning, Text Mining, Visualization, Big Data, Data Munging, Data Ingestion
 * 🤝  Enthusiastic about collaborating on a variety of projects, whether they are technically challenging or involve other areas of expertise. I am eager to learn from others and contribute my skills to achieve shared goals.
 
-<a href="https://www.github.com/SkBuds" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SkBuds?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/AIDataWizard" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AIDataWizard?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
