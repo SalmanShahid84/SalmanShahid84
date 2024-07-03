@@ -6,12 +6,12 @@ Aspiring Data Scientist
 
 Been learning code for about a month now, following detailed roadmaps for Data Science as I have worked with Data during my undergrad as a Mechanical Engineer Researcher.
 
-* 🌍  I'm based in Abu Dhabi
+* 🌍  I'm based in Gothenburg, Sweden
 * 🖥️  See my portfolio at [Coming Soon]
 * ✉️  You can contact me at [salman\_shahid84@hotmail.com](mailto:salman_shahid84@hotmail.com)
-* 🧠  I'm learning Statistics, Machine Learning, Text Mining, Visualization, Big Data, Data Munging, Data Ingestion
-* 🤝  I'm open to collaborating on Large technical heavy projects, but I will announce it on GitHub profile
-* ⚡  I absolutely love Movies, anything to do with Movies/TV Shows (GOT), for me it is about growing, learning, innovating, inventing something that would change someone's life.
+* 📓  Currently studying Engineering Mathematics and Computational Science at Chalmers University of Technology
+* 🧠  Learning Statistics, Machine Learning, Text Mining, Visualization, Big Data, Data Munging, Data Ingestion
+* 🤝  Enthusiastic about collaborating on a variety of projects, whether they are technically challenging or involve other areas of expertise. I am eager to learn from others and contribute my skills to achieve shared goals.
 
 <a href="https://www.github.com/SkBuds" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SkBuds?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
