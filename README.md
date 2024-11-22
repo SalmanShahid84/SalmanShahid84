@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mathematician and Machine Learning Data Scientist
 -----------------------
 
-Currently studying Engineering Mathematics and Computational Science at Chalmers University of Technology with tracks in Data science, AI and ML. With over 2 years of expertise in Machine Learning (ML), Natural Language Processing (NLP), and Software Engineering, I specialize in transforming data and language into powerful, impactful solutions and user experiences. My diverse skill set enables me to create innovative, data-driven applications that drive success
+Currently studying Engineering Mathematics and Computational Science at Chalmers University of Technology with tracks in Data science, AI and ML. I specialize in transforming data and language into powerful, impactful solutions and user experiences. My diverse skill set enables me to create innovative, data-driven applications that drive success
 
 * 🌍  I'm based in Gothenburg, Sweden
 * 🖥️  See my portfolio at [Coming Soon]
 * ✉️  You can contact me at [salman\_shahid84@hotmail.com](mailto:salman_shahid84@hotmail.com)
 * 📓  Currently studying Engineering Mathematics and Computational Science at Chalmers University of Technology
-* 🧠  Learning Statistics, Machine Learning, Text Mining, Visualization, Big Data, Data Munging, Data Ingestion
+* 🧠  Learning Statistics, Machine Learning, Optimization, Computer Vision Techniques, More Machine Learning
 * 🤝  Enthusiastic about collaborating on a variety of projects, whether they are technically challenging or involve other areas of expertise. I am eager to learn from others and contribute my skills to achieve shared goals.
 
 <a href="https://www.github.com/AIDataWizard" target="_blank" rel="noreferrer"><img
