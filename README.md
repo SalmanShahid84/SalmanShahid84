@@ -33,7 +33,26 @@ src="https://img.shields.io/github/followers/SalmanShahid84?logo=github&style=fo
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- Github Stats --> 
+<b>GitHub Stats</b>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SalmanShahid84&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanShahid84&theme=nightowl&hide_border=false" alt="AAL1X streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SalmanShahid84&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+<br>
 
 <a href="http://www.github.com/SalmanShahid84"><img src="https://github-readme-stats.vercel.app/api?username=SalmanShahid84&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Salmans's GitHub stats" /></a>
 
