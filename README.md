@@ -6,6 +6,9 @@ Hi there, I'm ![](https://user-images.githubusercontent.com/18350557/176309783-0
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 -----------------------
 
+
+<img align="right" width=200px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJoZ29ldHhzMjY5cWp5NXlneXNpbjNqaW1lMGxxY3BpYWdwcGp1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVqkgFhhiRsy63VNd0/giphy.gif"/>
+
 I am a **Machine Learning** and **Computer Vision** Engineer, currently studying Engineering Mathematics and Computational Science at Chalmers University of Technology with tracks in Data science, AI and ML. 
 
 * 🌍  I'm based in Gothenburg, Sweden
