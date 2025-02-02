@@ -67,6 +67,8 @@ src="https://img.shields.io/github/followers/SalmanShahid84?logo=github&style=fo
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SalmanShahid84&theme=nightowl&show_icons=true&count_private=true" />
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanShahid84&theme=nightowl&hide_border=false" alt="Salman streak" /> -->
+
+
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SalmanShahid84&theme=nightowl&hide_border=false&langs_count=10"/>
@@ -75,3 +77,8 @@ src="https://img.shields.io/github/followers/SalmanShahid84?logo=github&style=fo
 </table>
 </p>
 <br>
+
+<h3><p align="center">Total Profile Visit</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/SalmanShahid84/count.svg"/>
+</p>
