@@ -26,32 +26,32 @@ src="https://img.shields.io/github/followers/SalmanShahid84?logo=github&style=fo
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Languages & Syntax:
+[![Python](https://skillicons.dev/icons?i=python&perline=3)](https://www.python.org/)
+[![C++](https://skillicons.dev/icons?i=cpp&perline=3)](https://www.wikiwand.com/en/articles/C%2B%2B)
+[![MATLAB](https://skillicons.dev/icons?i=matlab&perline=3)](https://se.mathworks.com/products/matlab.html)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+###### Machine Learning and Computer Vision Libraries:
+[![Pytorch](https://skillicons.dev/icons?i=pytorch&perline=3)](https://pytorch.org/)
+[![openCV](https://skillicons.dev/icons?i=opencv&perline=3)](https://opencv.org/)
+[![sklearn](https://skillicons.dev/icons?i=sklearn&perline=3)](https://scikit-learn.org/stable/)
+
 
 ###### Database Management:
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+[![SQL](https://skillicons.dev/icons?i=mysql&perline=3)](https://www.mysql.com/)
+[![Azure](https://skillicons.dev/icons?i=azure&perline=3)](https://azure.microsoft.com/en-us/)
 
 ###### Development Tools:
+[![Git](https://skillicons.dev/icons?i=git&perline=3)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github&perline=3)](www.github.com)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-<!--![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;-->
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 ###### Development Environments:
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-
+[![VsCode](https://skillicons.dev/icons?i=vscode&perline=3)](https://code.visualstudio.com/)
+[![VsCode](https://skillicons.dev/icons?i=visualstudio&perline=3)](https://visualstudio.microsoft.com/)
 
 ### Socials
-
-<p align="left">
-<a href="https://discord.com/users/SkBuds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/salman64" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+[![Discord](https://skillicons.dev/icons?i=discord&perline=3)](https://discord.com/users/SkBuds)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/salman64)
 
 ### Badges
 
