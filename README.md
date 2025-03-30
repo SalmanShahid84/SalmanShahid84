@@ -1,3 +1,8 @@
+<!-- 🦊 GitHub Animated Banner -->
+<p align="center">
+  <img src="https://github.com/SalmanShahid84/SalmanShahid84/raw/main/fox-banner.gif" alt="Animated Fox Banner" width="100%">
+</p>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 Hi there, I'm ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Salman Shahid
