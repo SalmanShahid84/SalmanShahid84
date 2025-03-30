@@ -1,6 +1,6 @@
 <!-- 🦊 GitHub Animated Banner -->
 <p align="center">
-  <img src="https://github.com/SalmanShahid84/SalmanShahid84/raw/main/fox-banner.gif" alt="Animated Fox Banner" width="100%">
+  <img src="https://github.com/SalmanShahid84/SalmanShahid84/raw/main/fox-banner-2.gif" alt="Animated Fox Banner" width="100%">
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
